@@ -2,7 +2,7 @@
 #  port: 8002
 spring:
   application:
-    name: qa
+    name: qa new
   h2:
     console:
       enabled: 'true'
